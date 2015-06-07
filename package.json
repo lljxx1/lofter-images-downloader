@@ -1,0 +1,33 @@
+{
+  "name": "tumblr-images-downloader",
+  "description": "download images form tumblr's blog",
+  "tags": [
+    "images",
+    "download",
+    "tumblr",
+    "tool"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Fun",
+    "email": "lljxx1@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lljxx1/tumblr-images-downloader.git"
+  },
+  "bugs": {
+    "url": "http://github.com/lljxx1/tumblr-images-downloader/issues"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "cheerio": "~0.18.0",
+    "promise": "~6.1.0",
+    "2.51.0": "~request"
+  },
+  "readmeFilename": "README.md"
+}
