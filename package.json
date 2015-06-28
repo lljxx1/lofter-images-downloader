@@ -1,10 +1,10 @@
 {
-  "name": "tumblr-images-downloader",
-  "description": "download images form tumblr's blog",
+  "name": "lofter-images-downloader",
+  "description": "download images form lofter's blog",
   "tags": [
     "images",
     "download",
-    "tumblr",
+    "lofter",
     "tool"
   ],
   "version": "1.0.0",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/lljxx1/tumblr-images-downloader.git"
+    "url": "http://github.com/lljxx1/lofter-images-downloader.git"
   },
   "bugs": {
-    "url": "http://github.com/lljxx1/tumblr-images-downloader/issues"
+    "url": "http://github.com/lljxx1/lofter-images-downloader/issues"
   },
   "license": "Apache-2.0",
   "engines": {
@@ -27,7 +27,7 @@
   "dependencies": {
     "cheerio": "~0.18.0",
     "promise": "~6.1.0",
-    "2.51.0": "~request"
+    "request": "~2.51.0"
   },
   "readmeFilename": "README.md"
 }

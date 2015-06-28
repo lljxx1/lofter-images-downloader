@@ -1,2 +1,2 @@
-# tumblr-images-downloader
-* a tool to download images for tumblr's blog.
+# lofter-images-downloader
+* a tool to download images for lofter's blog.
